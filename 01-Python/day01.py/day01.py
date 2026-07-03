@@ -1,0 +1,8 @@
+print("Hello,It's Deepanshoo!")
+print("I am starting my AI Engineer journey.")
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+print("HI",name)
+print("Your Age in ten years will be", age+10 )
+print(f"HI, {name}!")
+print(f"In ten years you will be", {age+10},"years old.")
