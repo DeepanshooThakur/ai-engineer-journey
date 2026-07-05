@@ -1,0 +1,7 @@
+age =int(input(26))
+print("age>18")
+print("age<18")
+print("age==26")
+print("age!=26")
+print("age>=18")
+print("age<=18")
