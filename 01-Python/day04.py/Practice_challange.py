@@ -1,0 +1,10 @@
+fruits=[]
+fruits.append("Apple")
+fruits.append("Banana")
+fruits.append("Mango")
+print(fruits)
+fruits.insert(1,"Orange")
+fruits.remove("Banana")
+fruits.pop(0)
+fruits.sort()
+print(fruits)
